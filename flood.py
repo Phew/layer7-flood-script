@@ -2183,18 +2183,6 @@ def atk():
 	headers = {
 			"User-Agent": useragent,
 			"Referer": refers
-		}
-	cookies = {
-		'.ByteFend': 'U2FsdGVkX19C1wlkuo1dPGpPFT9gzcXQOKqn3DgdwV/irh6jner2GxPM0b90rVlMAQgWBDW0xtmpBcHgM5rf7tElUmcKP/dN9JFgxchK00HN9NdBveCSaCG86RA+e5txkBKtKAq9+oRtB8ptBqbqB+g54wXTpbfoF0/z/CpCU8lIQpXcWtRqthNuzud8jjm6vN1FCqUEneY1hRVB3dL5n1YS6gujjwSVnWm5lAkyTjrDh46bGkNPrMh46SXbSfdZ+xP0VtjCgr8MtM/S7e6mY5m7eUV/cYISNliy8UctQXg0R+paccyf8WzHG5oFqRBvaYNDJhv3HChaO8cfF63kzg==',
-		'XSRF-TOKEN': 'eyJpdiI6IjBmYUpjbGFIeEszVEtKUjRMaHBoUUE9PSIsInZhbHVlIjoiME01TUNleldVMUtjS0c0cjZiS2hsUUQwQ29kOUl2dlZ4K1wvVHgwN2dGdHdTdThPbEJGV1BqVDJ3OGFaQlJjNXoiLCJtYWMiOiJmZTQ5ZGFlOTE0NmE3YjhjNDhjYWRjYTQ0NzY0ZDhmZTI1MzM3MGNkYmZkZDhkY2YwMGE3NDhhYzZjZmU2OGU4In0%3D'
-
-	}
-	#payload = {
-		#'username': 'asdasdasd',
-		#'password': 'asdadasd',
-		#'captchaToken': '03AGdBq24yZn3fLCfnjn1oaJQO2lbrKAFFUQ-u9sLHin5LNvnlHB018GU7FH9TVaBBU4KODooq6X6nq1x6l0Xaph-e93jGrizAUDaU2HbbcByVaofvwOHtrQUKLJO_HXgCHtkuuyOXZrvAtVCasnAoy5UewSdlyLhxnjjDjwth_kTbPg4HgoQHXCgDS5bdB9nt2AnRM3kpGrWU3NR7JR9HRbFLWSEp5WXAZtCcVRBnej69ASG1zpn3ebMe9Gvc72WHMosyoQXqZwxJEVpBoYflaANWBuJ09j1odyeL359ArO2zWIkAYT5jrwe3e9kpaWOUw-jbGgZMPRR5Mdy9E-l_F3OkgMKWKnJqgYST03RRVyfFOU5rO4FPChINLrzvsDqxx73pwuRnM2nrlbntoLCi5cyvSIrBv0cnHXnzIF3FIDdGj8N_E6GuHZPNHS5uAmuI-xrMSoMEKCqVv4YDFpSSVTNAX-XbLMPU5Q'
-
-	#}
 	while True:
 		while oo:
 			try:
